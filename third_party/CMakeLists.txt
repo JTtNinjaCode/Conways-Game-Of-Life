@@ -1,4 +1,5 @@
 add_subdirectory(glfw)
+add_subdirectory(glad)
 
 set(IMGUI_DIR ../third_party/imgui)
 add_library(imgui STATIC
