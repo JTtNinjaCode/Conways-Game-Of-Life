@@ -15,7 +15,7 @@ This repository contains an implementation of Conway's Game of Life in C++. The 
 
 Clone the repository:
 ```bash
-git clone https://github.com/JTtNinjaCode/Conways-Game-Of-Life.git
+git clone --recursive https://github.com/JTtNinjaCode/Conways-Game-Of-Life.git
 ```
 Build:
 ```bash
